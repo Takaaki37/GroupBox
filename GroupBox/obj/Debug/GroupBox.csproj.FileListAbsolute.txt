@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\GroupBox\bin\Debug\GroupBox.exe.config
+\\Mac\Home\Desktop\GroupBox\bin\Debug\GroupBox.exe
+\\Mac\Home\Desktop\GroupBox\bin\Debug\GroupBox.pdb
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.Form1.resources
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.exe
+\\Mac\Home\Desktop\GroupBox\obj\Debug\GroupBox.pdb
